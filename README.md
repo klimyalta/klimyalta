@@ -29,6 +29,10 @@
 Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
 GitHub: https://github.com/klimyalta/rebalance-bot  
 
+## Скриншоты
+![Главный дашборд](screenshots/2026-02-08_20-51-00.png)
+*Главный дашборд с текущими ценами, балансами и распределением активов*
+
 ### 2. Crypto Trading Bot — Торговый бот с машинным обучением
 Автоматический спот-бот для Bybit с индикаторами и ML-сигналами.  
 - Индикаторы: RSI, MACD, ADX, CVD, уровни Pivot.  
