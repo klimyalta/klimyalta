@@ -29,7 +29,7 @@
 Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
 GitHub: https://github.com/klimyalta/rebalance-bot  
 
-### 1. Crypto Trading Bot — Торговый бот с машинным обучением
+### 2. Crypto Trading Bot — Торговый бот с машинным обучением
 Автоматический спот-бот для Bybit с индикаторами и ML-сигналами.  
 - Индикаторы: RSI, MACD, ADX, CVD, уровни Pivot.  
 - Модель: ансамбль RandomForest + XGBoost + LightGBM.  
@@ -40,7 +40,7 @@ GitHub: https://github.com/klimyalta/rebalance-bot
 Технологии: Python, ccxt, pandas, numpy, scikit-learn, xgboost, lightgbm, tkinter, threading.  
 GitHub: https://github.com/твой_ник/crypto-trading-bot  
 
-### 2. Smart Spot Bot — Веб-дашборд для трейдинга в реальном времени
+### 3. Smart Spot Bot — Веб-дашборд для трейдинга в реальном времени
 Полноценный веб-интерфейс для мониторинга и управления сделками.  
 - Live-обновления через WebSocket (цена, score, MA, открытые/закрытые сделки).  
 - Аналитика: winrate, ROI, максимальная просадка.  
@@ -51,7 +51,7 @@ GitHub: https://github.com/твой_ник/crypto-trading-bot
 Технологии: Python (backend), HTML/CSS/JS, WebSocket.  
 GitHub: https://github.com/твой_ник/smart-spot-bot  
 
-### 3. Crypto Trading Bot — Торговый бот с машинным обучением
+### 4. Crypto Trading Bot — Торговый бот с машинным обучением
 Автоматический спот-бот для Bybit с индикаторами и ML-сигналами.  
 - Индикаторы: RSI, MACD, ADX, CVD, уровни Pivot.  
 - Модель: ансамбль RandomForest + XGBoost + LightGBM.  
@@ -62,7 +62,7 @@ GitHub: https://github.com/твой_ник/smart-spot-bot
 Технологии: Python, ccxt, pandas, numpy, scikit-learn, xgboost, lightgbm, tkinter, threading.  
 GitHub: https://github.com/твой_ник/crypto-trading-bot
 
-### 4. Инвест-трекер: путь к 1 000 000 ₽
+### 5. Инвест-трекер: путь к 1 000 000 ₽
 Личный трекер инвестиций с прогнозом сложного процента.  
 - Учёт наличных, вкладов, крипты, акций.  
 - Прогноз на 1–20 лет (столбчатая диаграмма Chart.js).  
@@ -72,7 +72,7 @@ GitHub: https://github.com/твой_ник/crypto-trading-bot
 Технологии: HTML/CSS/JS, Chart.js, localStorage.  
 GitHub: https://github.com/твой_ник/invest-tracker-1m  
 
-### 5. Finance Helper — Мобильный финансовый помощник
+### 6. Finance Helper — Мобильный финансовый помощник
 Приложение в стиле мобильного (PWA-подобный интерфейс).  
 - Учёт расходов по категориям + круговая диаграмма (чистый CSS).  
 - Цели накопления с прогресс-барами и внесением средств.  
