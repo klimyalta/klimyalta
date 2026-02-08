@@ -30,7 +30,7 @@
 
 Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
 GitHub: https://github.com/klimyalta/rebalance-bot  
-![Главный дашборд Rebalance Bot](https://github.com/klimyalta/rebalance-bot/blob/main/screenshots/2026-01-01_19-21-41.png) 
+![Главный дашборд Rebalance Bot] (https://github.com/klimyalta/rebalance-bot/blob/main/screenshots/2026-02-08_20-51-00.png) 
 *Главный дашборд с текущими ценами, балансами и распределением активов — один из моих проектов по автоматическому ребалансу крипто-портфеля*
 
 
