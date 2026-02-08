@@ -53,7 +53,7 @@
 - В проекте уделил внимание автоматизации тестов: проверки API, обработки ошибок и сигналов ML.  
 
 Технологии: Python, ccxt, pandas, numpy, scikit-learn, xgboost, lightgbm, tkinter, threading.  
-GitHub: https://github.com/твой_ник/crypto-trading-bot
+
 
 ### 3. Finance Helper — Мобильный финансовый помощник
 Приложение в стиле мобильного (PWA-подобный интерфейс).  
@@ -64,7 +64,6 @@ GitHub: https://github.com/твой_ник/crypto-trading-bot
 - Автоматизировал тесты: модалки, фронт-логика, хранение в localStorage.  
 
 Технологии: HTML/CSS/JS, Font Awesome, localStorage.  
-GitHub: https://github.com/твой_ник/finance-helper  
 
 
 ### 4. Smart Spot Bot — Веб-дашборд для трейдинга в реальном времени
@@ -75,8 +74,7 @@ GitHub: https://github.com/твой_ник/finance-helper
 - Кнопки start/stop, экспорт CSV, логи.  
 - Автоматизировал тесты: проверка WebSocket-соединений, API-ответов и фронт-логики.  
 
-Технологии: Python (backend), HTML/CSS/JS, WebSocket.  
-GitHub: https://github.com/твой_ник/smart-spot-bot  
+Технологии: Python (backend), HTML/CSS/JS, WebSocket.   
 
 
 ### 5. Инвест-трекер: путь к 1 000 000 ₽
@@ -87,7 +85,6 @@ GitHub: https://github.com/твой_ник/smart-spot-bot
 - Тестировал: автоматизация расчётов, фронт-взаимодействия и хранения данных.  
 
 Технологии: HTML/CSS/JS, Chart.js, localStorage.  
-GitHub: https://github.com/твой_ник/invest-tracker-1m  
 
 
 Готов развивать эти проекты дальше или браться за новые задачи, включая автоматизацию тестов и QA.  
