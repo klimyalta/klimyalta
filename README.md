@@ -20,6 +20,7 @@
 ## Мои проекты
 
 ### 1. Rebalance Bot — Автоматический ребаланс портфеля
+**GitHub:** 🚀 [**https://github.com/klimyalta/rebalance-bot**](https://github.com/klimyalta/rebalance-bot) 
 ![Главный дашборд Rebalance Bot](https://github.com/klimyalta/rebalance-bot/raw/main/screenshots/2026-02-08_20-51-00.png)  
 
 
@@ -40,7 +41,7 @@
 - Добавил автоматизацию: тесты на ребаланс, проверка графиков и API-интеграций.  
 
 Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
-GitHub: https://github.com/klimyalta/rebalance-bot  
+**GitHub:** 🚀 [**https://github.com/klimyalta/rebalance-bot**](https://github.com/klimyalta/rebalance-bot) 
 
 
 
