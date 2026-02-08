@@ -49,7 +49,7 @@ GitHub: https://github.com/твой_ник/smart-spot-bot
 - Добавил автоматизацию: тесты на ребаланс, проверка графиков и API-интеграций.  
 
 Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
-GitHub: https://github.com/твой_ник/rebalance-bot  
+GitHub: https://github.com/klimyalta/rebalance-bot  
 
 ### 4. Инвест-трекер: путь к 1 000 000 ₽
 Личный трекер инвестиций с прогнозом сложного процента.  
