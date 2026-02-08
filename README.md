@@ -21,8 +21,6 @@
 
 ### 1. Rebalance Bot — Автоматический ребаланс портфеля
 
-![Главный дашборд Rebalance Bot](https://github.com/klimyalta/rebalance-bot/raw/main/screenshots/2026-02-08_20-51-00.png)  
-*Главный дашборд с текущими ценами, балансами и распределением активов — один из моих проектов по автоматическому ребалансу крипто-портфеля*
 
 Инструмент для поддержания нужных долей активов (BTC/ETH/USDT и кастом).  
 - Графики роста портфеля и накопления активов (Chart.js).  
@@ -32,6 +30,8 @@
 
 Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
 GitHub: https://github.com/klimyalta/rebalance-bot  
+![Главный дашборд Rebalance Bot](https://github.com/klimyalta/rebalance-bot/raw/main/screenshots/2026-02-08_20-51-00.png)  
+*Главный дашборд с текущими ценами, балансами и распределением активов — один из моих проектов по автоматическому ребалансу крипто-портфеля*
 
 
 ### 2. Crypto Trading Bot — Торговый бот с машинным обучением
