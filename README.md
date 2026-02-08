@@ -19,6 +19,16 @@
 
 ## Мои проекты
 
+### 1. Rebalance Bot — Автоматический ребаланс портфеля
+Инструмент для поддержания нужных долей активов (BTC/ETH/USDT и кастом).  
+- Графики роста портфеля и накопления активов (Chart.js).  
+- Круговая диаграмма распределения.  
+- Учёт комиссий, ROI, уведомления в Telegram.  
+- Добавил автоматизацию: тесты на ребаланс, проверка графиков и API-интеграций.  
+
+Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
+GitHub: https://github.com/klimyalta/rebalance-bot  
+
 ### 1. Crypto Trading Bot — Торговый бот с машинным обучением
 Автоматический спот-бот для Bybit с индикаторами и ML-сигналами.  
 - Индикаторы: RSI, MACD, ADX, CVD, уровни Pivot.  
@@ -41,15 +51,16 @@ GitHub: https://github.com/твой_ник/crypto-trading-bot
 Технологии: Python (backend), HTML/CSS/JS, WebSocket.  
 GitHub: https://github.com/твой_ник/smart-spot-bot  
 
-### 3. Rebalance Bot — Автоматический ребаланс портфеля
-Инструмент для поддержания нужных долей активов (BTC/ETH/USDT и кастом).  
-- Графики роста портфеля и накопления активов (Chart.js).  
-- Круговая диаграмма распределения.  
-- Учёт комиссий, ROI, уведомления в Telegram.  
-- Добавил автоматизацию: тесты на ребаланс, проверка графиков и API-интеграций.  
+### 3. Crypto Trading Bot — Торговый бот с машинным обучением
+Автоматический спот-бот для Bybit с индикаторами и ML-сигналами.  
+- Индикаторы: RSI, MACD, ADX, CVD, уровни Pivot.  
+- Модель: ансамбль RandomForest + XGBoost + LightGBM.  
+- Риск-менеджмент: trailing stop, ATR-стопы, grid-ордера, учёт комиссий.  
+- Интерфейс на Tkinter + уведомления в Telegram.  
+- В проекте уделил внимание автоматизации тестов: проверки API, обработки ошибок и сигналов ML.  
 
-Технологии: Python (backend), HTML/CSS/JS, Chart.js.  
-GitHub: https://github.com/klimyalta/rebalance-bot  
+Технологии: Python, ccxt, pandas, numpy, scikit-learn, xgboost, lightgbm, tkinter, threading.  
+GitHub: https://github.com/твой_ник/crypto-trading-bot
 
 ### 4. Инвест-трекер: путь к 1 000 000 ₽
 Личный трекер инвестиций с прогнозом сложного процента.  
