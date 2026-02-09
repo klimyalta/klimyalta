@@ -77,6 +77,8 @@
 
 ### 4. Smart Spot Bot — Торговый бот с веб-интерфейсом
 
+**GitHub:** 🚀 [**https://github.com/klimyalta/Smart-Spot-Bot**](https://github.com/klimyalta/Smart-Spot-Bot)
+
 Автоматический спот-бот для Bybit: входы по рынку с фильтром MA20 и сеткой, выходы по trailing/ATR-стопам.  
 Расчёт индикаторов, аналитика сделок и уведомления.
 ![Главный дашборд Smart Spot Bot ](https://github.com/klimyalta/Smart-Spot-Bot/blob/main/screenshots/2026-02-09_13-15-59.png)  
@@ -94,15 +96,7 @@
 - Backend: Python, FastAPI, ccxt (Bybit), numpy  
 - Frontend: HTML5, CSS, JavaScript, WebSocket  
 - Логи: logging + Telegram-handler  
-
-## Как запустить локально
-
-1. Склонируй репозиторий  
-   ```bash
-   git clone https://github.com/klimyalta/smart-spot-bot.git
-   cd smart-spot-bot
-  
-
+**GitHub:** 🚀 [**https://github.com/klimyalta/Smart-Spot-Bot**](https://github.com/klimyalta/Smart-Spot-Bot)
 
 
 Готов развивать эти проекты дальше или браться за новые задачи, включая автоматизацию тестов и QA.  
