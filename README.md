@@ -53,7 +53,7 @@
 - В проекте уделил внимание автоматизации тестов: проверки API, обработки ошибок и сигналов ML.  
 
 Технологии: Python, ccxt, pandas, numpy, scikit-learn, xgboost, lightgbm, tkinter, threading.  
-
+![Главный дашборд Rebalance Bot](https://github.com/klimyalta/Crypto-Trading-Bot-/blob/main/screenshots/2026-01-01_19-41-39.png)
 
 ### 3. Finance Helper — Мобильный финансовый помощник
 Приложение в стиле мобильного (PWA-подобный интерфейс).  
