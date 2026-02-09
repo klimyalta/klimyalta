@@ -45,6 +45,7 @@
 **GitHub:** 🚀 [**https://github.com/klimyalta/rebalance-bot**](https://github.com/klimyalta/rebalance-bot) 
 
 ### 2. Crypto Trading Bot — Торговый бот с машинным обучение 
+**GitHub:** 🚀 [**https://github.com/klimyalta/Crypto-Trading-Bot-**](https://github.com/klimyalta/Crypto-Trading-Bot-)
 
 *Автоматический спот-бот для биржи Bybit, который анализирует рынок с помощью технических индикаторов и сигналов машинного обучения для принятия решений о покупке/продаже.*
 ![Главный дашборд Rebalance Bot](https://github.com/klimyalta/Crypto-Trading-Bot-/blob/main/screenshots/2026-01-01_19-41-39.png)
@@ -56,11 +57,11 @@
 - В проекте уделил внимание автоматизации тестов: проверки API, обработки ошибок и сигналов ML.  
 
 Технологии: Python, ccxt, pandas, numpy, scikit-learn, xgboost, lightgbm, tkinter, threading.  
-
+***GitHub:** 🚀 [**https://github.com/klimyalta/Crypto-Trading-Bot-**](https://github.com/klimyalta/Crypto-Trading-Bot-)
 
 ### 3. Finance Helper — Мобильный финансовый помощник
 
-**GitHub:** 🚀 [**https://github.com/klimyalta/rebalance-bot**](https://github.com/klimyalta/Finance-Helper)
+**GitHub:** 🚀 [**https://github.com/klimyalta/Finance-Helper**](https://github.com/klimyalta/Finance-Helper)
 
 Приложение в стиле мобильного (PWA-подобный интерфейс). 
 ![Главный дашборд Rebalance Bot](https://github.com/klimyalta/Finance-Helper/blob/main/screenshots/2026-02-09_11-35-34.png)
@@ -69,7 +70,9 @@
 - Напоминания с датой/временем.  
 - Баланс, редактирование категорий, тёмная тема.  
 - Автоматизировал тесты: модалки, фронт-логика, хранение в localStorage.  
-Технологии: HTML/CSS/JS, Font Awesome, localStorage.  
+Технологии: HTML/CSS/JS, Font Awesome, localStorage.
+
+**GitHub:** 🚀 [**https://github.com/klimyalta/Finance-Helper**](https://github.com/klimyalta/Finance-Helper)
 
 
 ### 4. Smart Spot Bot — Веб-дашборд для трейдинга в реальном времени
