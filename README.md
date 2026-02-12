@@ -51,10 +51,10 @@ Telegram: @klimgurin
 **GitHub:** 🚀 [**https://github.com/klimyalta/rebalance-bot**](https://github.com/klimyalta/rebalance-bot) 
 
 ### 2. Crypto Trading Bot — Торговый бот с машинным обучение 
-**GitHub:** 🚀 [**https://github.com/klimyalta/Crypto-Trading-Bot-**](https://github.com/klimyalta/Crypto-Trading-Bot-)
+**GitHub:** 🚀 [**https://github.com/klimyalta/Crypto-Trading-Bot-**](https://github.com/klimyalta/Crypto-Trading-Bot)
 
 *Автоматический спот-бот для биржи Bybit, который анализирует рынок с помощью технических индикаторов и сигналов машинного обучения для принятия решений о покупке/продаже.*
-![Главный дашборд Rebalance Bot](https://github.com/klimyalta/Crypto-Trading-Bot-/blob/main/screenshots/2026-01-01_19-41-39.png)
+![Главный дашборд Rebalance Bot](https://github.com/klimyalta/Crypto-Trading-Bot/blob/main1/screenshots/2026-01-01_19-41-39.png)
 Автоматический спот-бот для Bybit с индикаторами и ML-сигналами.  
 - Индикаторы: RSI, MACD, ADX, CVD, уровни Pivot.  
 - Модель: ансамбль RandomForest + XGBoost + LightGBM.  
